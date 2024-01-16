@@ -8,5 +8,5 @@
 - SCSS
 
 # Preview
-- [DEMO LINK](https://vovchukkul.github.io/layout_landing-page/)
+- [DEMO LINK](https://vovchukkul.github.io/my-creative-bakery/)
 
